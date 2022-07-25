@@ -1,0 +1,44 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EmployeeManager.Mvc
+build_property.RootNamespace = EmployeeManager.Mvc
+build_property.ProjectDir = C:\Users\ahmet\Desktop\Kodlar\MVC\Webprog\EmployeeManager.Mvc\EmployeeManager.Mvc\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ahmet\Desktop\Kodlar\MVC\Webprog\EmployeeManager.Mvc\EmployeeManager.Mvc
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ahmet/Desktop/Kodlar/MVC/Webprog/EmployeeManager.Mvc/EmployeeManager.Mvc/Views/EmployeeManager/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVNYW5hZ2VyXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ahmet/Desktop/Kodlar/MVC/Webprog/EmployeeManager.Mvc/EmployeeManager.Mvc/Views/EmployeeManager/Insert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVNYW5hZ2VyXEluc2VydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ahmet/Desktop/Kodlar/MVC/Webprog/EmployeeManager.Mvc/EmployeeManager.Mvc/Views/EmployeeManager/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVNYW5hZ2VyXExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ahmet/Desktop/Kodlar/MVC/Webprog/EmployeeManager.Mvc/EmployeeManager.Mvc/Views/EmployeeManager/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVNYW5hZ2VyXFVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ahmet/Desktop/Kodlar/MVC/Webprog/EmployeeManager.Mvc/EmployeeManager.Mvc/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ahmet/Desktop/Kodlar/MVC/Webprog/EmployeeManager.Mvc/EmployeeManager.Mvc/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ahmet/Desktop/Kodlar/MVC/Webprog/EmployeeManager.Mvc/EmployeeManager.Mvc/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
